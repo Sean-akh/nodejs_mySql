@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_mysql",
+  "version": "1.0.0",
+  "description": "product sale and inventory app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sean-akh/nodejs_mySql.git"
+  },
+  "author": "Sean",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sean-akh/nodejs_mySql/issues"
+  },
+  "homepage": "https://github.com/Sean-akh/nodejs_mySql#readme",
+  "dependencies": {
+    "cli-table-redemption": "^1.0.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "request": "^2.86.0"
+  }
+}
