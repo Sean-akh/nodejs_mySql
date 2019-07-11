@@ -21,6 +21,6 @@
     "fs": "0.0.1-security",
     "inquirer": "^5.2.0",
     "mysql": "^2.15.0",
-    "request": "^2.86.0"
+    "request": "^2.88.0"
   }
 }
